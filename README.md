@@ -6,7 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-oliv3&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-##  
+##  Tecnologias
+Estas são algumas das tecnologias e ferramentas com as quais trabalho:
   
 <div style="display: inline_block"><br>
   <img align="center" alt="sapup-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,16 +22,15 @@
   <img align="center" alt="sapup-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>  
   
-  ##
+  ## 
+ <div>
+  [![Twitter Follow](https://img.shields.io/twitter/follow/danielsapup3?style=social)](https://twitter.com/danielsapup3)
+  [![Linkedin: daniel](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-oliveira-9b2890108/)]  (https://www.linkedin.com/in/daniel/)
+  [![Youtube: daniel](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCEQ_0pFLy4QKTK0UQe8b0ow)](https://www.youtube.com/channel/UCEQ_0pFLy4QKTK0UQe8b0ow)
+  [![Twitch: sapup3](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/sapup3)](https://www.twitch.tv/sapup3)
+ 
   
-  <div>
-    <a href="https://web.facebook.com/sapupaaa/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-    <a href="https://www.youtube.com/channel/UCEQ_0pFLy4QKTK0UQe8b0ow" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-    <a href = "mailto:danieloliveira.webmaster@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/danieloliv3/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/sapup3" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/RxrNZJAu" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/daniel-oliveira-9b2890108/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
    
    ![Snake animation](https://github.com/daniel-oliv3/daniel-oliv3/blob/output/github-contribution-grid-snake.svg)
    
