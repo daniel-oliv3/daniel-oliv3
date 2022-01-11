@@ -22,7 +22,7 @@ These are some of the technologies and tools that I work with:
   <img align="center" alt="sapup-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>  
   
-  ## Onde me encontrar
+  ## where to find me
  <div>
   <a href="https://web.facebook.com/sapupaaa/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"   target="_blank"></a>
     <a href = "mailto:danieloliveira.webmaster@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
